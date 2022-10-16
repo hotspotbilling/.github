@@ -2,13 +2,13 @@
 
 Hi, My Name is [ibnux](https://github.com/ibnux)
 
-This Organization to organize PHPMixBill Project and all the plugin
+This Organization to organize PHPNuxBill Project and all the plugin
 
 ## Payment Gateway
 
-- [Tripay.com](https://github.com/hotspotbilling/phpmixbill-tripay) | Indonesia
-- [Xendit.com](https://github.com/hotspotbilling/phpmixbill-xendit) | Indonesia and Philippine ( Philippine not tested )
-- [Duitku.com](https://github.com/hotspotbilling/phpmixbill-duitku) | Indonesia
+- [Tripay.com](https://github.com/hotspotbilling/phpnuxbill-tripay) | Indonesia
+- [Xendit.com](https://github.com/hotspotbilling/phpnuxbill-xendit) | Indonesia and Philippine ( Philippine not tested )
+- [Duitku.com](https://github.com/hotspotbilling/phpnuxbill-duitku) | Indonesia
 
 ## Be a sponsor for this project
 
