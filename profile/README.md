@@ -11,6 +11,10 @@ This Organization to organize PHPNuxBill Project and all the plugin
 - [Duitku.com](https://github.com/hotspotbilling/phpnuxbill-duitku) | Indonesia
 - [PayPal.com](https://github.com/hotspotbilling/phpnuxbill-paypal) | Country supported by paypal
 
+## Free Whatsapp and SMS Gateway
+ [https://wa.nux.my.id/login](https://wa.nux.my.id/login)  
+ using your own phone
+
 ## Be a sponsor for this project
 
 - [Github Sponsor](https://github.com/sponsors/ibnux)
