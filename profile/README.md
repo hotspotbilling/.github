@@ -9,6 +9,7 @@ This Organization to organize PHPNuxBill Project and all the plugin
 - [Tripay.com](https://github.com/hotspotbilling/phpnuxbill-tripay) | Indonesia
 - [Xendit.com](https://github.com/hotspotbilling/phpnuxbill-xendit) | Indonesia and Philippine ( Philippine not tested )
 - [Duitku.com](https://github.com/hotspotbilling/phpnuxbill-duitku) | Indonesia
+- [PayPal.com](https://github.com/hotspotbilling/phpnuxbill-paypal) | Country supported by paypal
 
 ## Be a sponsor for this project
 
@@ -16,4 +17,4 @@ This Organization to organize PHPNuxBill Project and all the plugin
 
 ## Sponsors
 
-no one 😔
+- [https://github.com/sonyinside](https://github.com/sonyinside)
