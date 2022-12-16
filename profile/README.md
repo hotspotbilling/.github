@@ -4,6 +4,12 @@ Hi, My Name is [ibnux](https://github.com/ibnux)
 
 This Organization to organize PHPNuxBill Project and all the plugin
 
+## PHPNuxBill
+
+- [PHPNuxBill Public Repo](https://github.com/hotspotbilling/phpnuxbill)
+- [PHPNuxBill Private Repo for Sponsor](https://github.com/hotspotbilling/phpnuxbill-private)  
+   Private get the latest only update, and can request any feature directly to [ibnux](https://github.com/ibnux)
+
 ## Payment Gateway
 
 - [Tripay.com](https://github.com/hotspotbilling/phpnuxbill-tripay) | Indonesia
