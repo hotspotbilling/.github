@@ -31,9 +31,15 @@ This Organization to organize PHPNuxBill Project and all the plugin
  [https://wa.nux.my.id/login](https://wa.nux.my.id/login)  
  using your own phone
 
-## Need help? Paid support available
+## Need Help? 
 
-- [Telegram](https://t.me/ibnux)
+- [Ask for help](https://github.com/hotspotbilling/.github/discussions)   
+  free Support and Discuss your Idea
+
+## Need Technical Support? Paid support available
+
+[Telegram](https://t.me/ibnux)   
+Any Technical chat directly to me, need to pay $50/week 
 
 ## Be a sponsor for this project
 
