@@ -33,8 +33,11 @@ This Organization to organize PHPNuxBill Project and all the plugin
 
 ## Need Help? 
 
+- [PHPNuxBill Support](https://github.com/hotspotbilling/phpnuxbill/discussions)   
+  For any problem with phpnuxbill installation
+
 - [Ask for help](https://github.com/hotspotbilling/.github/discussions)   
-  free Support and Discuss your Idea
+  free Support and Discuss your Idea for Plugin and Payment Gateway
 
 ## Need Technical Support? Paid support available
 
