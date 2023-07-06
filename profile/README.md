@@ -20,6 +20,7 @@ This Organization to organize PHPNuxBill Project and all the plugin
 - [Xendit.com](https://github.com/hotspotbilling/phpnuxbill-xendit) | Indonesia and Philippine ( Philippine not tested )
 - [Duitku.com](https://github.com/hotspotbilling/phpnuxbill-duitku) | Indonesia
 - [PayPal.com](https://github.com/hotspotbilling/phpnuxbill-paypal) | Country supported by paypal
+- [bkash.com](https://github.com/hotspotbilling/phpnuxbill-bkash) | Bangladesh
 - [Others](https://github.com/orgs/hotspotbilling/repositories?q=payment+gateway)
 
 ## Plugin
