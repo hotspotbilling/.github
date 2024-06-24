@@ -7,8 +7,12 @@ This Organization to organize PHPNuxBill Project and all the plugin
 ## PHPNuxBill
 
 - [PHPNuxBill Public Repo](https://github.com/hotspotbilling/phpnuxbill)
-- [PHPNuxBill Private Repo for Sponsor](https://github.com/hotspotbilling/phpnuxbill-private)  
-   Private get the latest only update, and can request any feature directly to [ibnux](https://github.com/ibnux)
+- ~~[PHPNuxBill Private Repo for Sponsor](https://github.com/hotspotbilling/phpnuxbill-private)~~    
+   ~~Private get the latest only update, and can request any feature directly to [ibnux](https://github.com/ibnux)~~
+
+Private Repo only for development purpose, any unfinished update will be on private, any request features will be charge by man days work.
+
+> If you like this Software just donate me and i will still maintenance it
 
 ## Login Template
 
