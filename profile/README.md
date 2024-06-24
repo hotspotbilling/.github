@@ -1,3 +1,5 @@
+[![GitHub Sponsor](https://img.shields.io/github/sponsors/ibnux?label=Sponsor&logo=GitHub)](https://github.com/sponsors/ibnux)
+
 # Hotspot Billing 👋
 
 Hi, My Name is [ibnux](https://github.com/ibnux)
@@ -38,16 +40,19 @@ Private Repo only for development purpose, any unfinished update will be on priv
 
 ## Need Help? 
 
+- [Telegran Support](https://t.me/phpnuxbill)   
+  For any problem with phpnuxbill installation
+
 - [PHPNuxBill Support](https://github.com/hotspotbilling/phpnuxbill/discussions)   
   For any problem with phpnuxbill installation
 
 - [Ask for help](https://github.com/hotspotbilling/.github/discussions)   
   free Support and Discuss your Idea for Plugin and Payment Gateway
 
-## Need Technical Support? Paid support available
+## Need Paid Technical Support?
 
 [Telegram](https://t.me/ibnux)   
-Any Technical chat directly to me, need to pay $50/week 
+Any Technical chat directly to me, it cost $50 
 
 ## Be a sponsor for this project
 
